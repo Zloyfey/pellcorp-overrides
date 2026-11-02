@@ -16,4 +16,18 @@
 #*# pid_kp = 21.253
 #*# pid_ki = 1.574
 #*# pid_kd = 71.729
-
+#*#
+#*# [cartographer scan_model default]
+#*# coefficients = 1.3765578973856265,1.8513088609207624,0.8237096909283589,0.2394099711564259,0.5264802787778191,1.1904153194961071,-0.3410399722686102,-1.3536847622534296,0.41369324260106244,0.7752210713325453
+#*# domain = 3.1061816579288957e-07,3.2796334239233167e-07
+#*# z_offset = 0
+#*# reference_temperature = 29.36
+#*# software_version = 1.9.0
+#*# mcu_version = CARTOGRAPHER 5.0.0 K1
+#*#
+#*# [cartographer touch_model default]
+#*# threshold = 4933
+#*# speed = 2
+#*# z_offset = -0.05
+#*# software_version = 1.9.0
+#*# mcu_version = CARTOGRAPHER 5.0.0 K1
